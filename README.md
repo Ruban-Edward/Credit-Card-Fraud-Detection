@@ -1,5 +1,5 @@
 # Credit-Card-Fraud-Detection
-![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fai-journey.com%2Fwp-content%2Fuploads%2F2019%2F06%2Ffraud-EMV-chip-credit-card.jpg&f=1&nofb=1)
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sketchbubble.com%2Fen%2Fpresentation-credit-card-fraud-detection.html&psig=AOvVaw0MAa-hZCrWdMV4ZY6FgvCW&ust=1718385316075000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPD4yaWK2YYDFQAAAAAdAAAAABAR)
 
 > Credit card companies must accurately detect fraudulent transactions to protect customers from unauthorized charges. This project focuses on developing a machine learning model to identify such fraudulent transactions.
 
