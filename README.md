@@ -1,5 +1,7 @@
 # Credit-Card-Fraud-Detection
 
+> Credit card companies must accurately detect fraudulent transactions to protect customers from unauthorized charges. This project focuses on developing a machine learning model to identify such fraudulent transactions.
+
 > The dataset used in this project contains credit card transactions made by European cardholders in September 2013. It includes transactions from a span of two days, with a total of 284,807 transactions, out of which 492 are identified as fraudulent. This makes the dataset highly imbalanced, with frauds accounting for only 0.172% of all transactions.
 
 ## <h2>Get Started with </h2>
