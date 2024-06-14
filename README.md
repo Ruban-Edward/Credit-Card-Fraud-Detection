@@ -1,5 +1,5 @@
 # Credit-Card-Fraud-Detection
-
+<img src="img/credit-card-fraud-detection.png">
 
 > Credit card companies must accurately detect fraudulent transactions to protect customers from unauthorized charges. This project focuses on developing a machine learning model to identify such fraudulent transactions.
 
