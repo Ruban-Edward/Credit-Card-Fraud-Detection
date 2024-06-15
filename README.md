@@ -75,6 +75,6 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 ```
 
 ## <h2>Licence</h2>
-[MIT license](LICENSE.md)
+[MIT license](LICENSE)
 
 
